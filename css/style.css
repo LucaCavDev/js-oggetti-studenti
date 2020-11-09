@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 3% 15%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  min-width: 500px;
+  min-height: 500px;
+  background-color: red;
+}
